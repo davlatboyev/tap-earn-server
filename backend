@@ -1,0 +1,6 @@
+backend/
+ ├── package.json
+ ├── package-lock.json
+ ├── server.js   (yoki index.js / app.js)
+ ├── .env
+ └── node_modules/  (GitHubga yuklanmaydi)
